@@ -46,7 +46,7 @@ hour = 0
 minute = 0
 
 
-while day <= 21: # Setting end date
+while day <= 21:  # Setting end date
 
     print("Getting Submissions on " + str(month) + "/" + str(day) + "/" + str(year))
 
